@@ -1,0 +1,8 @@
+{
+  "banned_words": [],
+  "spam_control": true,
+  "flood_limit": 5,
+  "antilink": true,
+  "antiforward": true,
+  "antimedia": true
+}
